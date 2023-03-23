@@ -1,4 +1,4 @@
-package com.aniketjain.weatherapplication.url
+package com.jagan.weatherapplication.url
 
 import com.aniketjain.weatherapplication.location.LocationCord
 import com.aniketjain.roastedtoast.Toasty
