@@ -2,10 +2,8 @@
 
 This is a Weather Prediction Application written in Kotlin. The application provides real-time weather information for any location around the world. Users can input a city name or zip code to get information on the current weather conditions, temperature, humidity, wind speed, and other related information.
 
-![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=4078c0&style=for-the-badge)
-![File Size](https://img.shields.io/github/repo-size/dev-aniketj/Weather-App?color=4078c0&style=for-the-badge)
 
-#### .
+#### Features .
 
 I am using **https://openweathermap.org/** to get all the data using JSON file.
 
