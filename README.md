@@ -1,15 +1,17 @@
-# Weather App 🌧️🌧️💙💙
+# Weather Application
+
+This is a Weather Prediction Application written in Kotlin. The application provides real-time weather information for any location around the world. Users can input a city name or zip code to get information on the current weather conditions, temperature, humidity, wind speed, and other related information.
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=4078c0&style=for-the-badge)
 ![File Size](https://img.shields.io/github/repo-size/dev-aniketj/Weather-App?color=4078c0&style=for-the-badge)
 
-#### Simple and Beautiful Weather App using Java.
+#### .
 
 I am using **https://openweathermap.org/** to get all the data using JSON file.
 
 ### Steps :
 
-> First, you have to create a account on it.
+> First, you have to create a account.
 
 > Then, generate a a unique API key to get all the data from the JSON file.
 
@@ -30,9 +32,12 @@ I am using **https://openweathermap.org/** to get all the data using JSON file.
 
 > Single API key on have
 
-## Preview
+## Usage
+* Launch the application on your device.
 
-<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/gif1.gif" width="200"/>
+* Input a city name or zip code in the search bar and press the "Search" button.
+
+* The application will display the current weather conditions for the selected location.
 
 ## Screenshots
 
@@ -45,7 +50,4 @@ I am using **https://openweathermap.org/** to get all the data using JSON file.
 
 Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
 
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
 
